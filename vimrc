@@ -20,8 +20,8 @@ noremap <space> za
 "INDENTATION/FOLDING/ETC
 set autoindent "stay at level of indent at new line
 set copyindent "bring indentation when copying
-set shiftwidth=4
-set tabstop=4
+set shiftwidth=2
+set tabstop=2
 set foldenable
 set foldmethod=indent
 set foldlevelstart=10
